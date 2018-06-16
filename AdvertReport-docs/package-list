@@ -1,0 +1,11 @@
+org.crealytics
+org.crealytics.aspect
+org.crealytics.bean
+org.crealytics.controller
+org.crealytics.exception
+org.crealytics.extra
+org.crealytics.integeration
+org.crealytics.repository
+org.crealytics.service
+org.crealytics.startup
+org.crealytics.utility
