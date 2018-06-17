@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.crealytics.integeration.ApiIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.7 s - in org.crealytics.integeration.ApiIntegrationTest

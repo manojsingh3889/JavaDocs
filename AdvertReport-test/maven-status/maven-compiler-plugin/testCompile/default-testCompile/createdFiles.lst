@@ -1,0 +1,13 @@
+org\crealytics\startup\ParseDataTest.class
+org\crealytics\exception\AppExceptionTest.class
+org\crealytics\bean\AdDetailTest.class
+org\crealytics\integeration\JavaLevelIntegerationTest.class
+org\crealytics\repository\AdRepositoryTest.class
+org\crealytics\bean\AdDetailReportTest.class
+org\crealytics\utility\GlobalUtilsTest.class
+org\crealytics\integeration\ApiIntegrationTest.class
+org\crealytics\controller\FrontControllerTest.class
+org\crealytics\utility\CSVReaderTest.class
+org\crealytics\utility\ObjectMapperTest.class
+org\crealytics\extra\DummyProduct.class
+org\crealytics\service\AdServiceTest.class
